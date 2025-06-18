@@ -1,0 +1,1 @@
+docker run --gpus all -v /mnt/d/MLOps:/app -p 5001:5001 xungmi/mlops:v1 python app.py

@@ -1,1 +1,0 @@
-docker run --gpus all -d -v /mnt/d/MLOps:/app -it xungmi/mlops:v1 /bin/bash
