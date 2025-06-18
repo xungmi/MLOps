@@ -1,0 +1,1 @@
+docker build -t xungmi/mlops:v1 .

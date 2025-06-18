@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/0/72fd1fe3540c4e6ca5dab140a1c74b67/artifacts
+end_time: 1750257751804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72fd1fe3540c4e6ca5dab140a1c74b67
+run_name: illustrious-yak-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750257751501
+status: 3
+tags: []
+user_id: root

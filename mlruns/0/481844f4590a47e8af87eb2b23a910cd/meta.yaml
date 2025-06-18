@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/0/481844f4590a47e8af87eb2b23a910cd/artifacts
+end_time: 1750258002844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 481844f4590a47e8af87eb2b23a910cd
+run_name: popular-robin-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750258002580
+status: 3
+tags: []
+user_id: root
