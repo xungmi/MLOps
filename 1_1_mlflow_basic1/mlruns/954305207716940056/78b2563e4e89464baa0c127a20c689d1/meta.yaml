@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/954305207716940056/78b2563e4e89464baa0c127a20c689d1/artifacts
+end_time: 1750491023329
+entry_point_name: ''
+experiment_id: '954305207716940056'
+lifecycle_stage: active
+run_id: 78b2563e4e89464baa0c127a20c689d1
+run_name: worried-owl-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750491023241
+status: 4
+tags: []
+user_id: root

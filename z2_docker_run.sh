@@ -1,1 +1,1 @@
-docker run -d -v /e/MLOps:/app -p 5001:5001 xungmi/mlops:v1 python app.py
+docker run --gpus all -d -v /mnt/host/e/MLOps:/app -p 5001:5001 xungmi/mlops:v1 python app.py

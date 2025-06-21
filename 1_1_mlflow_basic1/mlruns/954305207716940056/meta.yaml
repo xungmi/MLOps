@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/954305207716940056
+creation_time: 1750491023226
+experiment_id: '954305207716940056'
+last_update_time: 1750491023226
+lifecycle_stage: active
+name: 'ex2 : log param, metric, artifact'

@@ -1,0 +1,13 @@
+# một tệp YAML đặc biệt dùng để định nghĩa cấu trúc và cách chạy một project MLflow.
+name: iris-classifier
+
+environment:
+  requirements: requirements.txt
+
+entry_points:
+  main:
+    parameters:
+      penalty: {type: str, default: "l2"}
+      solver: {type: str, default: "lbfgs"}
+    command: >
+      python train.py --penalty {penalty} --solver {solver}
